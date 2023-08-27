@@ -3,7 +3,7 @@ https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-an
 
 Some functions also depend on Brain Connectivity Toolbox: https://sites.google.com/site/bctnet/
 
-make_accuracy_voxelwise.m generates an accuracy Map based on input event files (3d nifti image), plus the degree sequence (another 4d nifti image).
+make_accuracy_voxelwise.m generates an accuracy map based on input event files (3d nifti image), plus the degree sequence (another 4d nifti image).
 
 make_visib_degree_voxelwise.m generates only the degree sequence (does not require an events file)
 
